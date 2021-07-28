@@ -5,7 +5,7 @@ title: UI Cheats Extension Changelog #(required)
 description: 
 
 # replace this word in navigation bar. Ex: Productnews, ChangeLog, Updates
-heading: UI Cheats Extension #(optional)
+heading: Home #(optional)
 
 # absolute or relative path of logo
 logo: /assets/images/changelog.png #(required)
