@@ -34,7 +34,7 @@ watch-badge: false #(optional)
 rss-feed-icon: false #(optional)
 
 # Global site tag (gtag.js) - Google Analytics e.g. UA-MYANALYTICS
-analytics: gtag.js #(recommended)
+analytics: G-J72M43PMF3 #(recommended)
 
 # https://changelog-site.disqus.com
 disqus-identifier: weerbesu # (optional)
