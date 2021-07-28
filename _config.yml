@@ -8,7 +8,7 @@ description:
 heading: UI Cheats Extension by weerbesu #(optional)
 
 # absolute or relative path of logo
-logo: /assets/images/Changelog.png #(required)
+logo: /assets/images/changelog.png #(required)
 
 # Your Product's Website
 website: https://patreon.com/weerbesu # (required)
