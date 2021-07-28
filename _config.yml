@@ -16,7 +16,7 @@ website: https://patreon.com/weerbesu # (required)
 # the base hostname & protocol for your site, 
 # e.g. https://updates.changelog.site
 # Note Don't put trailing slash https://updates.changelog.site/
-url: "https://uicheatsextension.weerbesu.com"  # (required)
+url: "https://uicheats.weerbesu.com"  # (required)
 
 baseurl: '' # optional
 
