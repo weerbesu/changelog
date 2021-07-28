@@ -37,7 +37,7 @@ rss-feed-icon: false #(optional)
 analytics: gtag.js #(recommended)
 
 # https://changelog-site.disqus.com
-# disqus-identifier: changelog-site  # (optional)
+disqus-identifier: weerbesu # (optional)
 
 # Allow users to comment via facebook
 fb-comment: false
