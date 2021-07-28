@@ -25,13 +25,13 @@ baseurl: '' # optional
 github:  weerbesu/changelog # (required)
 
 # remove this line if don't want to show Github Star Badge
-star-badge: true  #(optional)
+star-badge: false  #(optional)
 
 # remove this line if don't want to show Github Watch Badge
-watch-badge: true #(optional)
+watch-badge: false #(optional)
 
 # Show rss feed icon in menubar. To disable this comment below line by adding # as first character.
-rss-feed-icon: true #(optional)
+rss-feed-icon: false #(optional)
 
 # Global site tag (gtag.js) - Google Analytics e.g. UA-MYANALYTICS
 analytics: gtag.js #(recommended)
