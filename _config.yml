@@ -5,18 +5,18 @@ title: UI Cheats Extension Changelog #(required)
 description: 
 
 # replace this word in navigation bar. Ex: Productnews, ChangeLog, Updates
-heading: Home #(optional)
+heading: Patreon #(optional)
 
 # absolute or relative path of logo
 logo: /assets/images/changelog.png #(required)
 
 # Your Product's Website
-website: https://patreon.com/weerbesu # (required)
+website: https://uicheats.weerbesu.com # (required)
 
 # the base hostname & protocol for your site, 
 # e.g. https://updates.changelog.site
 # Note Don't put trailing slash https://updates.changelog.site/
-url: "https://uicheats.weerbesu.com"  # (required)
+url: "https://patreon.com/weerbesu"  # (required)
 
 baseurl: '' # optional
 
