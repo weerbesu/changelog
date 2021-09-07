@@ -1,0 +1,15 @@
+---
+title:  "v1.27"
+category: minor
+---
+##### Updated for game version 1.79.93 (Spa Day Refresh patch).
+##### Added new Sentiment cheats.
+##### Added a new Household Collection object spawn cheat.
+##### Updated the career cheat with a new option to set the overmax level.
+##### Updated the reward store, perk purchase panel, spellbook, sim profile, achievement bowser, and NAP voting panel to automatically refresh or reopen itself after a cheat has been used.
+##### Fixed the Skills panel sometimes taking a long time to update after using a skill cheat.
+##### Fixed the perk/reward unlocking cheat not working for the reward store and owned businesses.
+##### Fixed the career objective cheat not working for prep tasks.
+##### Fixed Interior Decorator gigs not completing after cheating the last task.
+##### Fixed the relationship cheat displaying incorrect current relationship values for Cottage Living animals.
+##### Added a confirmation dialog when cheating hunger to -100 with the left click needs cheat.
